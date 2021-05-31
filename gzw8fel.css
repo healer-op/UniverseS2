@@ -1,0 +1,22 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * din-condensed:
+ *   - http://typekit.com/eulas/00000000000000003b9b2c84
+ *
+ * © 2009-2021 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2019-07-28 13:55:38 UTC"}*/
+
+@import url("../p.typekit.net/p1a98.css?s=1&amp;k=gzw8fel&amp;ht=tk&amp;f=32265&amp;a=7474040&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"din-condensed";
+src:url("af/f50d41/00000000000000003b9b2c84/27/l3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("woff2"),url("af/f50d41/00000000000000003b9b2c84/27/d3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("woff"),url("af/f50d41/00000000000000003b9b2c84/27/a3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;
+}
+
+.tk-din-condensed { font-family: "din-condensed",sans-serif; }
